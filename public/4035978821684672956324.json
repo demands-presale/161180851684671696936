@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713745998344",
+    "firebase_url": "https://wallpaper-bcd56-default-rtdb.firebaseio.com",
+    "project_id": "wallpaper-bcd56",
+    "storage_bucket": "wallpaper-bcd56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713745998344:android:962d459b18b235fb48a7bd",
+        "android_client_info": {
+          "package_name": "com.seonjusan.lowpolywallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713745998344-2g4nbo5as9fdhbkc7htom7mj06f3r58l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNyFNBCY5qSLwoodxekfMWrK5UAS_-V0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713745998344-2g4nbo5as9fdhbkc7htom7mj06f3r58l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
